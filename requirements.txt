@@ -1,0 +1,7 @@
+json
+requests
+selenium
+colorama
+pystyle
+ctypes
+datetime
